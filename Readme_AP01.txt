@@ -1,7 +1,7 @@
 ===============================
 ===============================
 
-The objective of the program is to read the three dataset using an windows form application.
+The objective of the program is to read the three dataset using a windows form application.
 
 ===============================
 Step 01: Drag and drop openfiledialog component fromtoolbox.
