@@ -1,0 +1,10 @@
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading text file.csprojAssemblyReference.cache
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading_text_file.Form1.resources
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading_text_file.Properties.Resources.resources
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading text file.csproj.GenerateResource.cache
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading text file.csproj.CoreCompileInputs.cache
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\bin\Debug\Reading text file.exe.config
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\bin\Debug\Reading text file.exe
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\bin\Debug\Reading text file.pdb
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading text file.exe
+E:\Dot Net Framework Notes\Visual Studio 2019 Notes\AP01 - Reading text files\Reading text file\obj\Debug\Reading text file.pdb
