@@ -24,13 +24,11 @@ namespace Reading_text_file
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             { 
                 File_Path = openFileDialog1.FileName;
-            }
-
-            StreamReader Dataset = new StreamReader(File_Path);
-            string Data_Value = Dataset.ReadToEnd();
-            Dataset.Close();
-
-            textBox1.Text = Data_Value;
+                StreamReader Dataset = new StreamReader(File_Path);
+                string Data_Value = Dataset.ReadToEnd();
+                Dataset.Close();
+                textBox1.Text = Data_Value;
+            }          
         }
     }
 }
